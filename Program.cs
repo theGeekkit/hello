@@ -16,6 +16,7 @@ namespace Variables
             string firstName = "Heath";
             bool isWorking = true;
             Console.WriteLine(number);
+            System.Console.WriteLine(firstName);
         }
     }
 }
