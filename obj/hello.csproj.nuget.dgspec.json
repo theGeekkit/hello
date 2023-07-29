@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sonof\\OneDrive\\Documents\\GitHub\\hello\\hello.csproj": {}
+    "c:\\Users\\sonof\\OneDrive\\Documents\\GitHub\\hello\\hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sonof\\OneDrive\\Documents\\GitHub\\hello\\hello.csproj": {
+    "c:\\Users\\sonof\\OneDrive\\Documents\\GitHub\\hello\\hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sonof\\OneDrive\\Documents\\GitHub\\hello\\hello.csproj",
+        "projectUniqueName": "c:\\Users\\sonof\\OneDrive\\Documents\\GitHub\\hello\\hello.csproj",
         "projectName": "hello",
-        "projectPath": "C:\\Users\\sonof\\OneDrive\\Documents\\GitHub\\hello\\hello.csproj",
+        "projectPath": "c:\\Users\\sonof\\OneDrive\\Documents\\GitHub\\hello\\hello.csproj",
         "packagesPath": "C:\\Users\\sonof\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sonof\\OneDrive\\Documents\\GitHub\\hello\\obj\\",
+        "outputPath": "c:\\Users\\sonof\\OneDrive\\Documents\\GitHub\\hello\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
